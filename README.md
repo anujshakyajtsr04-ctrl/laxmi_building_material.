@@ -1,0 +1,1 @@
+A responsive product showcase website for Laxmi Building Material Goods, featuring building materials, electrical fittings, water fittings, product search, contact details, WhatsApp, call, and Google Maps integration.
